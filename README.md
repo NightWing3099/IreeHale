@@ -1,30 +1,93 @@
-![MasterHead](https://c.tenor.com/DBqjevyA2o4AAAAM/bongo-cat-codes.gif)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Iree%20Hale&fontSize=80&fontColor=ffffff&animation=fadeIn" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Iree</h1>
-<h3 align="center">A passionate frontend developer from U.S.A</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<h3 align="center">Full-Stack Developer | JavaScript & React Specialist | UI/UX Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ireehale&label=Profile%20views&color=0e75b6&style=flat" alt="ireehale" /> </p>
-
-- 🌱 I’m currently learning **TypeScript, NextJ, and  Java **
-
-- 👨‍💻 All of my projects are available at [https://www.iree-hale.com/](https://www.iree-hale.com/)
-
-- 💬 Ask me about **JavaScript. React, and NextJS**
-
-- 📫 How to reach me **haleiree1@gmail.com**
-
-- ⚡ Fun fact **I like anime and manga**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/iree-hale-35534a1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iree-hale-35534a1b7/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.iree-hale.com/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-0e75b6?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/iree-hale-35534a1b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:haleiree1@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ireehale&show_icons=true&locale=en&layout=compact" alt="ireehale" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ireehale&show_icons=true&locale=en" alt="ireehale" /></p>
+I'm a passionate **frontend-focused full-stack developer** based in the U.S. with a strong foundation in modern JavaScript ecosystems. I specialize in building responsive, performant web applications using **React, Next.js, and TypeScript**, and I'm always eager to learn and adopt new technologies.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ireehale&" alt="ireehale" /></p>
+- 🌱 Currently deepening my expertise in **TypeScript, Next.js, and Java**
+- 👨‍💻 Explore my work at **[iree-hale.com](https://www.iree-hale.com/)**
+- 💬 Ask me about **JavaScript, React, Next.js, and web performance**
+- 📫 Reach me: **haleiree1@gmail.com**
+- ⚡ When I'm not coding, you'll find me watching anime or reading manga
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)
+![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white)
+
+### Testing & Design
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**IreeHale**](https://github.com/NightWing3099/IreeHale) | Personal portfolio & project showcase | React, JavaScript, CSS |
+| *More projects coming soon* | | |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ireehale&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ireehale&show_icons=true&locale=en&theme=default" alt="GitHub Stats" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ireehale&theme=default" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ireehale&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to new opportunities, collaborations, and connecting with fellow developers. Feel free to reach out!
+
+<p align="center">
+  <a href="https://www.iree-hale.com/" target="_blank"><strong>🌐 Portfolio</strong></a> •
+  <a href="https://www.linkedin.com/in/iree-hale-35534a1b7/" target="_blank"><strong>💼 LinkedIn</strong></a> •
+  <a href="mailto:haleiree1@gmail.com"><strong>📧 Email</strong></a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" />
+</div>
